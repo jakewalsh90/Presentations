@@ -6,3 +6,4 @@
  - Some of these presentations are reduced in size/content/slides compared to those shown at events/conferences. 
  - These presentations will not be kept updated after events occur – so may be outdated if downloaded afterwards. 
  - If in any doubt, please check latest documentation and MS Links for updated info!
+ - You may use these slides however you wish - please credit where appropriate. 
